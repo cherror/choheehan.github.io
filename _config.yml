@@ -1,7 +1,7 @@
-title: Long Haul
+title: 공포의 너구리
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://choheehan.gitpage.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,11 +22,8 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: choheehan
+  email: cherror@kookmin.ac.kr
 
 google_analytics: "UA-58263416-1"
 
