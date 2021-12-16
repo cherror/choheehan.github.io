@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test Post"
-date:   2021-12-08
-comments: true
----
-
-내 이름 한초희
