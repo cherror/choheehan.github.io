@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Git & Github"
+description: About Git & Github
 date:   2021-12-16
 comments: true
 ---
-
 #### *Git? 
 컴퓨터 파일 내에서 작업 내역을 저장해 다른 사람들과
 해당 파일의 작업을 조율하기 위한 분산 버전 관리 시스템*
