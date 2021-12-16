@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Analytics"
-discription: About Google Analytics
+description: About Google Analytics
 date:   2021-12-16
 comments: true
 ---
