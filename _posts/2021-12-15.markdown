@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown"
 description: About Markdown
-date:   2021-12-15
+date:   2021-12-15-Wed
 comments: true
 ---
 #### Markdown? 
