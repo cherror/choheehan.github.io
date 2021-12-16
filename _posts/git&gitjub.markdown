@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Git & Github"
+date:   2021-12-16
+comments: true
+---
+
+#### *Git? 
+컴퓨터 파일 내에서 작업 내역을 저장해 다른 사람들과
+해당 파일의 작업을 조율하기 위한 분산 버전 관리 시스템*
+
+#### *Github?
+Git 기반의 소스 코드를 호스팅하며, 협업 지원 기능들을 제공하는 웹 서비스*
+
+#### *How to download?
+https://git-scm.com/downloads*
+
+*위 링크를 통해 자신의 OS 전용 파일을 다운로드한다. 
+잘 읽어보고 순서대로 진행하기만 하면 다운로드는 끝!*
+
+#### *Make Repository
+왼쪽 상단 부에 Repositories와 그 옆 초록색 New 버튼을 볼 수 있을 것이다. 
+New 버튼 클릭!*
+
+*Repository name을 설정하고 누구나 볼 수 있는 public, 
+혹은 내가 설정한 사람만 열람이 가능한 private으로 설정할지 선택한다.*
+
+#### *Connecting remote storage and local storage!!  
+로컬저장소의 경로를 정하고 cd 명령어를 통해 이동한다.
+원격저장소의 주소를 복사하여 cmd에 git clone 원격저장소 주소를 입력하기만 하면 준비 완료!*
