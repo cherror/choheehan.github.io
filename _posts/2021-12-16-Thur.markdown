@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics"
 description: About Google Analytics
-date:   2021-12-16-Thur
+date:   2021-12-16
 comments: true
 ---
 #### Google Analytics? 
