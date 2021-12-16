@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Markdown"
+description: About Markdown
 date:   2021-12-16
 comments: true
 ---
-
 #### Markdown? 
 *텍스트 기반의 마크업 언어,
 특수기호와 문자를 이용한 매우 간단한 구조로 읽고 쓰는 것이 쉬우며 
