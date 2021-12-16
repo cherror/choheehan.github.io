@@ -78,7 +78,8 @@
 > comment:
 >   provider: "disqus"
 >   disqus:
->     shortname: "choheehan"```
+>     shortname: "choheehan"
+> ```
 > 15. Open \_layouts/post.html and paste the **copied code** *(could be different for each theme!!)*
 > 16. Add ```comments: true``` to the post that you want to add the comment function to
 
